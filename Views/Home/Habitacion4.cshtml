@@ -1,0 +1,92 @@
+<div class="Contenido">
+    <script>
+        initializeTimer();
+    </script>
+      <div class="error">
+        @ViewBag.Error        
+    </div>
+  <p>Eliges el pie de manzana porque recuerdas que uno de los periódicos hablaba sobre cómo el pie de manzana de Lazy Susan ya no era lo mismo. Por esta razón, decides elegir la opción 'pie de manzana'.
+
+Nervioso por la posibilidad de licuarle la memoria, disparas el rayo hacia ella mientras cierras los ojos por los nervios. Abres los ojos y… ¡Lazy Susan ha recuperado la memoria! Decides hablar con ella y preguntarle sobre qué recuerda del día anterior. Buena decisión @ViewBag.PlayerName !</p>
+  <div class="cita">
+    <p> "Anoche hice un delicioso pie de manzana… Recuerdo el aroma dulce que llenaba la cocina. Pero luego, algo extraño sucedió. Escuché murmullos de personas hablando de un código, algo importante. Intenté entender, pero todo se desvaneció como una neblina en la brisa.
+
+Fue entonces cuando la policía apareció. Utilizaron una pistola que borra la memoria. Lo recuerdo ahora, fue como un destello blanco y luego… todo se volvió borroso. El número 5 es lo único que quedó claro en mi mente después de eso. No sé qué significa, pero sé que es importante."
+    </p>
+  </div>
+
+  <p>Decides caminar para aclarar tu mente y pensar en la declaración de Lazy Susan. Mientras caminas por la ciudad, pensando en dónde seguir buscando, te das cuenta de que hay un nuevo periódico del Diario Semanal de Gravity Falls a la venta. Vas a la tienda de periódicos y compras el nuevo periódico. </p>
+  <div class="pag-diario">
+    <img src="../Fotos/Diario4.png" alt="Diario 4">
+  </div>
+
+  <p>Te diriges a la casa de Soos y eres recibido por su abuela. Luego de hablar con ella te quedan con lo siguiente que
+    dijo:</p>
+  <div class="cita">
+    <p> “Soos siempre ha sido un chico muy activo. Trabajaba en la Mystery Shack, donde siempre pasaban cosas extrañas. Por ejemplo, mucha gente aseguraba que los ojos ‘decorativos’ que había en un jarrón te miraban y seguían a donde fueras; siempre que uno entraba allí, le llamaban la atención. A pesar de que la mayoría de la tienda era basura sin sentido para turistas, al principio Soos llegaba asustado de su nuevo trabajo, pero ahora va cada día con una sonrisa de oreja a oreja.
+
+Era muy amigo de la familia Pines, por lo que cuando desaparecieron le afectó mucho, ya que se preocupaba por ellos. Al ver que la policía no hacía nada, decidió ir a reclamarles por su cuenta. Desde que fue a la policía a pedir que investigaran qué pasó con sus amigos, Soos no ha sido el mismo. Se encierra en su habitación por horas, apenas come, y cuando le pregunto qué le pasa, me dice que no puedo entenderlo.”</p>
+  </div>
+  <p>Te diriges al cuarto de Soos para hablar con él. Lo encuentras viendo un video de YouTube tirado en la cama. Es verdad, su cara es inexpresiva. Decides hacerle unas preguntas sobre qué le ha pasado, pero nada de lo que dice es relevante. Tendrás que darte cuenta de otra manera; debes utilizar la pistola de la memoria. </p>
+ <!-- Pista 1 -->
+<p>¿Quieres una pista?</p>
+<div id="liveAlertPlaceholder1"></div>
+<button type="button" class="btn btn-primary" id="liveAlertBtn1">Pista!</button>
+<script>
+  const alertPlaceholder1 = document.getElementById('liveAlertPlaceholder1')
+  const appendAlert1 = (message, type) => {
+    const wrapper = document.createElement('div')
+    wrapper.innerHTML = [
+      `<div class="alert alert-${type} alert-dismissible" role="alert">`,
+      `   <div>${message}</div>`,
+      '   <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>',
+      '</div>'
+    ].join('')
+
+    alertPlaceholder1.append(wrapper)
+  }
+
+  const alertTrigger1 = document.getElementById('liveAlertBtn1')
+  if (alertTrigger1) {
+    alertTrigger1.addEventListener('click', () => {
+      appendAlert1('Presta atención a lo que dice la abuela de Soos', 'success')
+    })
+  }
+</script>
+
+<!-- Pista 2 -->
+<div id="liveAlertPlaceholder2"></div>
+<button type="button" class="btn btn-primary" id="liveAlertBtn2">Pista 2!</button>
+<script>
+  const alertPlaceholder2 = document.getElementById('liveAlertPlaceholder2')
+  const appendAlert2 = (message, type) => {
+    const wrapper = document.createElement('div')
+    wrapper.innerHTML = [
+      `<div class="alert alert-${type} alert-dismissible" role="alert">`,
+      `   <div>${message}</div>`,
+      '   <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>',
+      '</div>'
+    ].join('')
+
+    alertPlaceholder2.append(wrapper)
+  }
+
+  const alertTrigger2 = document.getElementById('liveAlertBtn2')
+  if (alertTrigger2) {
+    alertTrigger2.addEventListener('click', () => {
+      appendAlert2('¿A dónde va Soos? ¿Qué es lo primero que mira la gente al entrar a ese lugar?', 'success')
+    })
+  }
+</script>
+
+  <!-- Form Codigo -->
+  <form action='@Url.Action("Habitacion")' method="POST">
+    <label for="inputPassword5" class="form-label"> </label>
+    <input id="inputPassword5" class="form-control" aria-describedby="passwordHelpBlock" name="clave" id="Hab6">
+    <div id="passwordHelpBlock" class="form-text" for="no" value="OJOS DECORATIVOS">
+    </div>
+    <input type="hidden" name="sala" value="4" />
+    <button type="submit" class="btn btn-primary">Enviar</button>
+  </form>
+  <!-- Fin Form Codigo -->
+</div>

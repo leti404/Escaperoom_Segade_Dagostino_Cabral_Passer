@@ -1,0 +1,69 @@
+<div class="Contenido">
+    <script>
+        initializeTimer();
+    </script>
+    <div class="error">
+        @ViewBag.Error        
+    </div>
+    <!-- Carrusel Diarios -->
+    <div class="diario">
+        <div id="carouselExampleIndicators" class="carousel slide">
+            <div class="carousel-indicators">
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active"
+                    aria-current="true" aria-label="Slide 1"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1"
+                    aria-label="Slide 2"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2"
+                    aria-label="Slide 3"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3"
+                    aria-label="Slide 4"></button>
+            </div>
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img src="../Fotos/Diario1.png" class="d-block w-100" alt="Diario 1">
+                </div>
+                <div class="carousel-item">
+                    <img src="../Fotos/Diario2.png" class="d-block w-100" alt="Diario 2">
+                </div>
+                <div class="carousel-item">
+                    <img src="../Fotos/Diario3.png" class="d-block w-100" alt="Diario 3">
+                </div>
+                <div class="carousel-item">
+                    <img src="../Fotos/CartaInvitacion.png" class="d-block w-100" alt="Carta Invitacion">
+                </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
+                data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators"
+                data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+            </button>
+        </div>
+        <!-- Fin Carrusel Diarios -->
+    </div>
+    <p>@ViewBag.PlayerName te ha llegado una carta de la gente del pueblo de Gravity falls, sabiendo que eres un detective privado, ofrecen
+        una recompensa de 10.000 dólares por resolver el misterio. ¿Deseas tomar el desafio? </p>
+    <!-- Form Codigo -->
+    <form action='@Url.Action("Habitacion")' method="POST">
+        <div class="form-check">
+            <input class="form-check-input" type="radio" name="clave" id="CodigoHab1Si" checked value="si">
+            <label class="form-check-label" for="Si">
+                Sí
+            </label>
+        </div>
+        <div class="form-check">
+            <input class="form-check-input" type="radio" name="clave" id="CodigoHab1No">
+            <label class="form-check-label" for="No" value="no">
+                No
+            </label>
+        </div>
+        <input type="hidden" name="sala" value="1" />
+        <button type="submit" class="btn btn-primary">Enviar</button>
+    </form>
+    <!-- Fin Form Codigo -->
+
+</div>

@@ -1,0 +1,76 @@
+<div class="Contenido">
+    <script>
+        initializeTimer();
+    </script>
+      <div class="error">
+        @ViewBag.Error        
+    </div>
+  <p> Decides ir con Greta y Candy pues ya has visto que ellas hablaban preocupadas sobre la familia Pines. Parecen
+    estar en sus 5 sentidos, es decir que no les borraron la memoria.
+    les hace unas preguntas sobre los policías y si han visto acciones extrañas de su parte. Esta es su respuesta:</p>
+  <div class="cita">
+    <p> "Recuerdo un incidente hace unas semanas Vi a dos policías discutiendo en la calle, y uno de ellos mencionó el
+      número 0. con Candy no pensamos mucho en ese momento, pero ahora que lo mencionas..." </p>
+  </div>
+  <div class="cita">
+    <p>"Fue extraño, después de mencionar el número 0, parecían tensos, como si estuvieran ocultando algo importante"
+    </p>
+  </div>
+  <p>Luego de pensarlo mucho decidí ir con el viejo McGucket, que sí, está loco, pero parecía tener razón cuando dijo
+    que la policía estaba envuelta en el misterio.
+    Cuando llegas a su “casa“ si puedes llamarlo así ya que es simplemente un basurero con una casa que se sostiene con
+    suerte. Cuando hablas con él te dice lo siguiente: </p>
+  <p>"Los vi una vez", comenzó con una risa nerviosa, "jugando con los pines. Los pines de sus uniformes, ¿sabes? Cada
+    uno tenía un código, y todos terminaban en el número 3". Su voz se elevó en un crescendo de emoción, como si la
+    revelación fuera una verdad profunda que solo él comprendía completamente. </p>
+  <p>
+    "El número 3", repitió, con una intensidad que envolvía sus palabras en un aura de obsesión. "Era como si fuera la
+    clave de algo grande, algo que estaban escondiendo". Sus manos temblaban ligeramente mientras hablaba, como si
+    estuviera tratando de agarrar las piezas dispersas de una historia que solo él conocía en su totalidad.
+    Sus palabras me dejaron intrigado, pero también me hicieron cuestionar la veracidad de sus afirmaciones. Sin
+    embargo, entre el caos de su mente, el detalle del número 3 se destacaba como un posible hilo conductor en el
+    misterio que envolvía a los policías y sus acciones recientes.
+    Reflexionas y te das cuenta que tal vez no esta loco, solo ha perdido la memoria. Revisas la pistola borra memoria
+    para ver si tiene algo en su menú relacionado a esto, pero no encuentras nada. Luego te das cuenta de que el viejo
+    MCgucket era muy amigo de la familia pines, tal vez ese número significaba algo.
+    vas a la mystery shack ya decidido a utilizar las pistas que has estado recolectando. Te diriges a la máquina
+    expendedora y decides insertar el código, ¿cual era?
+  </p>
+  <!-- Pista -->
+  <p> Quieres una pista?</p>
+  <div id="liveAlertPlaceholder"></div>
+  <button type="button" class="btn btn-primary" id="liveAlertBtn">Pista!</button>
+  <script>
+    const alertPlaceholder = document.getElementById('liveAlertPlaceholder')
+    const appendAlert = (message, type) => {
+      const wrapper = document.createElement('div')
+      wrapper.innerHTML = [
+        `<div class="alert alert-${type} alert-dismissible" role="alert">`,
+        `   <div>${message}</div>`,
+        '   <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>',
+        '</div>'
+      ].join('')
+
+      alertPlaceholder.append(wrapper)
+    }
+
+    const alertTrigger = document.getElementById('liveAlertBtn')
+    if (alertTrigger) {
+      alertTrigger.addEventListener('click', () => {
+        appendAlert('El codigo es de 4 caracteres', 'success')
+      })
+    }
+  </script>
+  <!-- Fin pista -->
+  <!-- Form Codigo -->
+  <form action='@Url.Action("Habitacion")' method="POST">
+    <label for="inputPassword5" class="form-label">Codigo: </label>
+    <input type="password" id="inputPassword5" class="form-control" aria-describedby="passwordHelpBlock" name="clave"
+      id="Hab6">
+    <div id="passwordHelpBlock" class="form-text" for="no" value="5703">
+    </div>
+    <input type="hidden" name="sala" value="6" />
+    <button type="submit" class="btn btn-primary">Enviar</button>
+  </form>
+  <!-- Fin Form Codigo -->
+</div>

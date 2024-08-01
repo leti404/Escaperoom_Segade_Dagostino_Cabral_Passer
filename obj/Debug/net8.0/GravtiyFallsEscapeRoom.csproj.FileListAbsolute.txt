@@ -1,0 +1,196 @@
+Z:\2024\PROGRAMACIÓN\TP05_SALA_DE_ESCAPE\GravtiyFallsEscapeRoom\bin\Debug\net8.0\appsettings.Development.json
+Z:\2024\PROGRAMACIÓN\TP05_SALA_DE_ESCAPE\GravtiyFallsEscapeRoom\bin\Debug\net8.0\appsettings.json
+Z:\2024\PROGRAMACIÓN\TP05_SALA_DE_ESCAPE\GravtiyFallsEscapeRoom\bin\Debug\net8.0\GravtiyFallsEscapeRoom.staticwebassets.runtime.json
+Z:\2024\PROGRAMACIÓN\TP05_SALA_DE_ESCAPE\GravtiyFallsEscapeRoom\bin\Debug\net8.0\GravtiyFallsEscapeRoom.exe
+Z:\2024\PROGRAMACIÓN\TP05_SALA_DE_ESCAPE\GravtiyFallsEscapeRoom\bin\Debug\net8.0\GravtiyFallsEscapeRoom.deps.json
+Z:\2024\PROGRAMACIÓN\TP05_SALA_DE_ESCAPE\GravtiyFallsEscapeRoom\bin\Debug\net8.0\GravtiyFallsEscapeRoom.runtimeconfig.json
+Z:\2024\PROGRAMACIÓN\TP05_SALA_DE_ESCAPE\GravtiyFallsEscapeRoom\bin\Debug\net8.0\GravtiyFallsEscapeRoom.dll
+Z:\2024\PROGRAMACIÓN\TP05_SALA_DE_ESCAPE\GravtiyFallsEscapeRoom\bin\Debug\net8.0\GravtiyFallsEscapeRoom.pdb
+Z:\2024\PROGRAMACIÓN\TP05_SALA_DE_ESCAPE\GravtiyFallsEscapeRoom\obj\Debug\net8.0\GravtiyFallsEscapeRoom.GeneratedMSBuildEditorConfig.editorconfig
+Z:\2024\PROGRAMACIÓN\TP05_SALA_DE_ESCAPE\GravtiyFallsEscapeRoom\obj\Debug\net8.0\GravtiyFallsEscapeRoom.AssemblyInfoInputs.cache
+Z:\2024\PROGRAMACIÓN\TP05_SALA_DE_ESCAPE\GravtiyFallsEscapeRoom\obj\Debug\net8.0\GravtiyFallsEscapeRoom.AssemblyInfo.cs
+Z:\2024\PROGRAMACIÓN\TP05_SALA_DE_ESCAPE\GravtiyFallsEscapeRoom\obj\Debug\net8.0\GravtiyFallsEscapeRoom.csproj.CoreCompileInputs.cache
+Z:\2024\PROGRAMACIÓN\TP05_SALA_DE_ESCAPE\GravtiyFallsEscapeRoom\obj\Debug\net8.0\GravtiyFallsEscapeRoom.MvcApplicationPartsAssemblyInfo.cache
+Z:\2024\PROGRAMACIÓN\TP05_SALA_DE_ESCAPE\GravtiyFallsEscapeRoom\obj\Debug\net8.0\GravtiyFallsEscapeRoom.RazorAssemblyInfo.cache
+Z:\2024\PROGRAMACIÓN\TP05_SALA_DE_ESCAPE\GravtiyFallsEscapeRoom\obj\Debug\net8.0\GravtiyFallsEscapeRoom.RazorAssemblyInfo.cs
+Z:\2024\PROGRAMACIÓN\TP05_SALA_DE_ESCAPE\GravtiyFallsEscapeRoom\obj\Debug\net8.0\staticwebassets.build.json
+Z:\2024\PROGRAMACIÓN\TP05_SALA_DE_ESCAPE\GravtiyFallsEscapeRoom\obj\Debug\net8.0\staticwebassets.development.json
+Z:\2024\PROGRAMACIÓN\TP05_SALA_DE_ESCAPE\GravtiyFallsEscapeRoom\obj\Debug\net8.0\staticwebassets\msbuild.GravtiyFallsEscapeRoom.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\2024\PROGRAMACIÓN\TP05_SALA_DE_ESCAPE\GravtiyFallsEscapeRoom\obj\Debug\net8.0\staticwebassets\msbuild.build.GravtiyFallsEscapeRoom.props
+Z:\2024\PROGRAMACIÓN\TP05_SALA_DE_ESCAPE\GravtiyFallsEscapeRoom\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GravtiyFallsEscapeRoom.props
+Z:\2024\PROGRAMACIÓN\TP05_SALA_DE_ESCAPE\GravtiyFallsEscapeRoom\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GravtiyFallsEscapeRoom.props
+Z:\2024\PROGRAMACIÓN\TP05_SALA_DE_ESCAPE\GravtiyFallsEscapeRoom\obj\Debug\net8.0\staticwebassets.pack.json
+Z:\2024\PROGRAMACIÓN\TP05_SALA_DE_ESCAPE\GravtiyFallsEscapeRoom\obj\Debug\net8.0\scopedcss\bundle\GravtiyFallsEscapeRoom.styles.css
+Z:\2024\PROGRAMACIÓN\TP05_SALA_DE_ESCAPE\GravtiyFallsEscapeRoom\obj\Debug\net8.0\GravtiyFallsEscapeRoom.dll
+Z:\2024\PROGRAMACIÓN\TP05_SALA_DE_ESCAPE\GravtiyFallsEscapeRoom\obj\Debug\net8.0\refint\GravtiyFallsEscapeRoom.dll
+Z:\2024\PROGRAMACIÓN\TP05_SALA_DE_ESCAPE\GravtiyFallsEscapeRoom\obj\Debug\net8.0\GravtiyFallsEscapeRoom.pdb
+Z:\2024\PROGRAMACIÓN\TP05_SALA_DE_ESCAPE\GravtiyFallsEscapeRoom\obj\Debug\net8.0\GravtiyFallsEscapeRoom.genruntimeconfig.cache
+Z:\2024\PROGRAMACIÓN\TP05_SALA_DE_ESCAPE\GravtiyFallsEscapeRoom\obj\Debug\net8.0\ref\GravtiyFallsEscapeRoom.dll
+C:\Users\48591411\Downloads\GravtiyFallsEscapeRoom\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\48591411\Downloads\GravtiyFallsEscapeRoom\bin\Debug\net8.0\appsettings.json
+C:\Users\48591411\Downloads\GravtiyFallsEscapeRoom\bin\Debug\net8.0\GravtiyFallsEscapeRoom.staticwebassets.runtime.json
+C:\Users\48591411\Downloads\GravtiyFallsEscapeRoom\bin\Debug\net8.0\GravtiyFallsEscapeRoom.exe
+C:\Users\48591411\Downloads\GravtiyFallsEscapeRoom\bin\Debug\net8.0\GravtiyFallsEscapeRoom.deps.json
+C:\Users\48591411\Downloads\GravtiyFallsEscapeRoom\bin\Debug\net8.0\GravtiyFallsEscapeRoom.runtimeconfig.json
+C:\Users\48591411\Downloads\GravtiyFallsEscapeRoom\bin\Debug\net8.0\GravtiyFallsEscapeRoom.dll
+C:\Users\48591411\Downloads\GravtiyFallsEscapeRoom\bin\Debug\net8.0\GravtiyFallsEscapeRoom.pdb
+C:\Users\48591411\Downloads\GravtiyFallsEscapeRoom\obj\Debug\net8.0\GravtiyFallsEscapeRoom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48591411\Downloads\GravtiyFallsEscapeRoom\obj\Debug\net8.0\GravtiyFallsEscapeRoom.AssemblyInfoInputs.cache
+C:\Users\48591411\Downloads\GravtiyFallsEscapeRoom\obj\Debug\net8.0\GravtiyFallsEscapeRoom.AssemblyInfo.cs
+C:\Users\48591411\Downloads\GravtiyFallsEscapeRoom\obj\Debug\net8.0\GravtiyFallsEscapeRoom.csproj.CoreCompileInputs.cache
+C:\Users\48591411\Downloads\GravtiyFallsEscapeRoom\obj\Debug\net8.0\GravtiyFallsEscapeRoom.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\48591411\Downloads\GravtiyFallsEscapeRoom\obj\Debug\net8.0\GravtiyFallsEscapeRoom.RazorAssemblyInfo.cache
+C:\Users\48591411\Downloads\GravtiyFallsEscapeRoom\obj\Debug\net8.0\GravtiyFallsEscapeRoom.RazorAssemblyInfo.cs
+C:\Users\48591411\Downloads\GravtiyFallsEscapeRoom\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\48591411\Downloads\GravtiyFallsEscapeRoom\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\48591411\Downloads\GravtiyFallsEscapeRoom\obj\Debug\net8.0\staticwebassets\msbuild.GravtiyFallsEscapeRoom.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\48591411\Downloads\GravtiyFallsEscapeRoom\obj\Debug\net8.0\staticwebassets\msbuild.build.GravtiyFallsEscapeRoom.props
+C:\Users\48591411\Downloads\GravtiyFallsEscapeRoom\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GravtiyFallsEscapeRoom.props
+C:\Users\48591411\Downloads\GravtiyFallsEscapeRoom\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GravtiyFallsEscapeRoom.props
+C:\Users\48591411\Downloads\GravtiyFallsEscapeRoom\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\48591411\Downloads\GravtiyFallsEscapeRoom\obj\Debug\net8.0\scopedcss\bundle\GravtiyFallsEscapeRoom.styles.css
+C:\Users\48591411\Downloads\GravtiyFallsEscapeRoom\obj\Debug\net8.0\GravtiyFallsEscapeRoom.dll
+C:\Users\48591411\Downloads\GravtiyFallsEscapeRoom\obj\Debug\net8.0\refint\GravtiyFallsEscapeRoom.dll
+C:\Users\48591411\Downloads\GravtiyFallsEscapeRoom\obj\Debug\net8.0\GravtiyFallsEscapeRoom.pdb
+C:\Users\48591411\Downloads\GravtiyFallsEscapeRoom\obj\Debug\net8.0\GravtiyFallsEscapeRoom.genruntimeconfig.cache
+C:\Users\48591411\Downloads\GravtiyFallsEscapeRoom\obj\Debug\net8.0\ref\GravtiyFallsEscapeRoom.dll
+Z:\2024\programacion\GravtiyFallsEscapeRoom\bin\Debug\net8.0\appsettings.Development.json
+Z:\2024\programacion\GravtiyFallsEscapeRoom\bin\Debug\net8.0\appsettings.json
+Z:\2024\programacion\GravtiyFallsEscapeRoom\bin\Debug\net8.0\GravtiyFallsEscapeRoom.staticwebassets.runtime.json
+Z:\2024\programacion\GravtiyFallsEscapeRoom\bin\Debug\net8.0\GravtiyFallsEscapeRoom.exe
+Z:\2024\programacion\GravtiyFallsEscapeRoom\bin\Debug\net8.0\GravtiyFallsEscapeRoom.deps.json
+Z:\2024\programacion\GravtiyFallsEscapeRoom\bin\Debug\net8.0\GravtiyFallsEscapeRoom.runtimeconfig.json
+Z:\2024\programacion\GravtiyFallsEscapeRoom\bin\Debug\net8.0\GravtiyFallsEscapeRoom.dll
+Z:\2024\programacion\GravtiyFallsEscapeRoom\bin\Debug\net8.0\GravtiyFallsEscapeRoom.pdb
+Z:\2024\programacion\GravtiyFallsEscapeRoom\obj\Debug\net8.0\GravtiyFallsEscapeRoom.GeneratedMSBuildEditorConfig.editorconfig
+Z:\2024\programacion\GravtiyFallsEscapeRoom\obj\Debug\net8.0\GravtiyFallsEscapeRoom.AssemblyInfoInputs.cache
+Z:\2024\programacion\GravtiyFallsEscapeRoom\obj\Debug\net8.0\GravtiyFallsEscapeRoom.AssemblyInfo.cs
+Z:\2024\programacion\GravtiyFallsEscapeRoom\obj\Debug\net8.0\GravtiyFallsEscapeRoom.csproj.CoreCompileInputs.cache
+Z:\2024\programacion\GravtiyFallsEscapeRoom\obj\Debug\net8.0\GravtiyFallsEscapeRoom.MvcApplicationPartsAssemblyInfo.cache
+Z:\2024\programacion\GravtiyFallsEscapeRoom\obj\Debug\net8.0\GravtiyFallsEscapeRoom.RazorAssemblyInfo.cache
+Z:\2024\programacion\GravtiyFallsEscapeRoom\obj\Debug\net8.0\GravtiyFallsEscapeRoom.RazorAssemblyInfo.cs
+Z:\2024\programacion\GravtiyFallsEscapeRoom\obj\Debug\net8.0\staticwebassets.build.json
+Z:\2024\programacion\GravtiyFallsEscapeRoom\obj\Debug\net8.0\staticwebassets.development.json
+Z:\2024\programacion\GravtiyFallsEscapeRoom\obj\Debug\net8.0\staticwebassets\msbuild.GravtiyFallsEscapeRoom.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\2024\programacion\GravtiyFallsEscapeRoom\obj\Debug\net8.0\staticwebassets\msbuild.build.GravtiyFallsEscapeRoom.props
+Z:\2024\programacion\GravtiyFallsEscapeRoom\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GravtiyFallsEscapeRoom.props
+Z:\2024\programacion\GravtiyFallsEscapeRoom\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GravtiyFallsEscapeRoom.props
+Z:\2024\programacion\GravtiyFallsEscapeRoom\obj\Debug\net8.0\staticwebassets.pack.json
+Z:\2024\programacion\GravtiyFallsEscapeRoom\obj\Debug\net8.0\scopedcss\bundle\GravtiyFallsEscapeRoom.styles.css
+Z:\2024\programacion\GravtiyFallsEscapeRoom\obj\Debug\net8.0\GravtiyFallsEscapeRoom.dll
+Z:\2024\programacion\GravtiyFallsEscapeRoom\obj\Debug\net8.0\refint\GravtiyFallsEscapeRoom.dll
+Z:\2024\programacion\GravtiyFallsEscapeRoom\obj\Debug\net8.0\GravtiyFallsEscapeRoom.pdb
+Z:\2024\programacion\GravtiyFallsEscapeRoom\obj\Debug\net8.0\GravtiyFallsEscapeRoom.genruntimeconfig.cache
+Z:\2024\programacion\GravtiyFallsEscapeRoom\obj\Debug\net8.0\ref\GravtiyFallsEscapeRoom.dll
+C:\Users\alvar\OneDrive\Escritorio\Documents\GravtiyFallsEscapeRoom\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\alvar\OneDrive\Escritorio\Documents\GravtiyFallsEscapeRoom\bin\Debug\net8.0\appsettings.json
+C:\Users\alvar\OneDrive\Escritorio\Documents\GravtiyFallsEscapeRoom\bin\Debug\net8.0\GravtiyFallsEscapeRoom.staticwebassets.runtime.json
+C:\Users\alvar\OneDrive\Escritorio\Documents\GravtiyFallsEscapeRoom\bin\Debug\net8.0\GravtiyFallsEscapeRoom.exe
+C:\Users\alvar\OneDrive\Escritorio\Documents\GravtiyFallsEscapeRoom\bin\Debug\net8.0\GravtiyFallsEscapeRoom.deps.json
+C:\Users\alvar\OneDrive\Escritorio\Documents\GravtiyFallsEscapeRoom\bin\Debug\net8.0\GravtiyFallsEscapeRoom.runtimeconfig.json
+C:\Users\alvar\OneDrive\Escritorio\Documents\GravtiyFallsEscapeRoom\bin\Debug\net8.0\GravtiyFallsEscapeRoom.dll
+C:\Users\alvar\OneDrive\Escritorio\Documents\GravtiyFallsEscapeRoom\bin\Debug\net8.0\GravtiyFallsEscapeRoom.pdb
+C:\Users\alvar\OneDrive\Escritorio\Documents\GravtiyFallsEscapeRoom\obj\Debug\net8.0\GravtiyFallsEscapeRoom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Escritorio\Documents\GravtiyFallsEscapeRoom\obj\Debug\net8.0\GravtiyFallsEscapeRoom.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\Documents\GravtiyFallsEscapeRoom\obj\Debug\net8.0\GravtiyFallsEscapeRoom.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Escritorio\Documents\GravtiyFallsEscapeRoom\obj\Debug\net8.0\GravtiyFallsEscapeRoom.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\Documents\GravtiyFallsEscapeRoom\obj\Debug\net8.0\GravtiyFallsEscapeRoom.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alvar\OneDrive\Escritorio\Documents\GravtiyFallsEscapeRoom\obj\Debug\net8.0\GravtiyFallsEscapeRoom.RazorAssemblyInfo.cache
+C:\Users\alvar\OneDrive\Escritorio\Documents\GravtiyFallsEscapeRoom\obj\Debug\net8.0\GravtiyFallsEscapeRoom.RazorAssemblyInfo.cs
+C:\Users\alvar\OneDrive\Escritorio\Documents\GravtiyFallsEscapeRoom\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\alvar\OneDrive\Escritorio\Documents\GravtiyFallsEscapeRoom\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\alvar\OneDrive\Escritorio\Documents\GravtiyFallsEscapeRoom\obj\Debug\net8.0\staticwebassets\msbuild.GravtiyFallsEscapeRoom.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alvar\OneDrive\Escritorio\Documents\GravtiyFallsEscapeRoom\obj\Debug\net8.0\staticwebassets\msbuild.build.GravtiyFallsEscapeRoom.props
+C:\Users\alvar\OneDrive\Escritorio\Documents\GravtiyFallsEscapeRoom\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GravtiyFallsEscapeRoom.props
+C:\Users\alvar\OneDrive\Escritorio\Documents\GravtiyFallsEscapeRoom\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GravtiyFallsEscapeRoom.props
+C:\Users\alvar\OneDrive\Escritorio\Documents\GravtiyFallsEscapeRoom\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\alvar\OneDrive\Escritorio\Documents\GravtiyFallsEscapeRoom\obj\Debug\net8.0\scopedcss\bundle\GravtiyFallsEscapeRoom.styles.css
+C:\Users\alvar\OneDrive\Escritorio\Documents\GravtiyFallsEscapeRoom\obj\Debug\net8.0\GravtiyFallsEscapeRoom.dll
+C:\Users\alvar\OneDrive\Escritorio\Documents\GravtiyFallsEscapeRoom\obj\Debug\net8.0\refint\GravtiyFallsEscapeRoom.dll
+C:\Users\alvar\OneDrive\Escritorio\Documents\GravtiyFallsEscapeRoom\obj\Debug\net8.0\GravtiyFallsEscapeRoom.pdb
+C:\Users\alvar\OneDrive\Escritorio\Documents\GravtiyFallsEscapeRoom\obj\Debug\net8.0\GravtiyFallsEscapeRoom.genruntimeconfig.cache
+C:\Users\alvar\OneDrive\Escritorio\Documents\GravtiyFallsEscapeRoom\obj\Debug\net8.0\ref\GravtiyFallsEscapeRoom.dll
+C:\Users\48386947\Downloads\Sala de escape Cabral D'Agostino Segade Passer\Sala de escape Cabral D'Agostino Segade Passer\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\48386947\Downloads\Sala de escape Cabral D'Agostino Segade Passer\Sala de escape Cabral D'Agostino Segade Passer\bin\Debug\net8.0\appsettings.json
+C:\Users\48386947\Downloads\Sala de escape Cabral D'Agostino Segade Passer\Sala de escape Cabral D'Agostino Segade Passer\bin\Debug\net8.0\GravtiyFallsEscapeRoom.staticwebassets.runtime.json
+C:\Users\48386947\Downloads\Sala de escape Cabral D'Agostino Segade Passer\Sala de escape Cabral D'Agostino Segade Passer\bin\Debug\net8.0\GravtiyFallsEscapeRoom.exe
+C:\Users\48386947\Downloads\Sala de escape Cabral D'Agostino Segade Passer\Sala de escape Cabral D'Agostino Segade Passer\bin\Debug\net8.0\GravtiyFallsEscapeRoom.deps.json
+C:\Users\48386947\Downloads\Sala de escape Cabral D'Agostino Segade Passer\Sala de escape Cabral D'Agostino Segade Passer\bin\Debug\net8.0\GravtiyFallsEscapeRoom.runtimeconfig.json
+C:\Users\48386947\Downloads\Sala de escape Cabral D'Agostino Segade Passer\Sala de escape Cabral D'Agostino Segade Passer\bin\Debug\net8.0\GravtiyFallsEscapeRoom.dll
+C:\Users\48386947\Downloads\Sala de escape Cabral D'Agostino Segade Passer\Sala de escape Cabral D'Agostino Segade Passer\bin\Debug\net8.0\GravtiyFallsEscapeRoom.pdb
+C:\Users\48386947\Downloads\Sala de escape Cabral D'Agostino Segade Passer\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\GravtiyFallsEscapeRoom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48386947\Downloads\Sala de escape Cabral D'Agostino Segade Passer\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\GravtiyFallsEscapeRoom.AssemblyInfoInputs.cache
+C:\Users\48386947\Downloads\Sala de escape Cabral D'Agostino Segade Passer\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\GravtiyFallsEscapeRoom.AssemblyInfo.cs
+C:\Users\48386947\Downloads\Sala de escape Cabral D'Agostino Segade Passer\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\GravtiyFallsEscapeRoom.csproj.CoreCompileInputs.cache
+C:\Users\48386947\Downloads\Sala de escape Cabral D'Agostino Segade Passer\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\GravtiyFallsEscapeRoom.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\48386947\Downloads\Sala de escape Cabral D'Agostino Segade Passer\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\GravtiyFallsEscapeRoom.RazorAssemblyInfo.cache
+C:\Users\48386947\Downloads\Sala de escape Cabral D'Agostino Segade Passer\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\GravtiyFallsEscapeRoom.RazorAssemblyInfo.cs
+C:\Users\48386947\Downloads\Sala de escape Cabral D'Agostino Segade Passer\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\48386947\Downloads\Sala de escape Cabral D'Agostino Segade Passer\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\48386947\Downloads\Sala de escape Cabral D'Agostino Segade Passer\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\staticwebassets\msbuild.GravtiyFallsEscapeRoom.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\48386947\Downloads\Sala de escape Cabral D'Agostino Segade Passer\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\staticwebassets\msbuild.build.GravtiyFallsEscapeRoom.props
+C:\Users\48386947\Downloads\Sala de escape Cabral D'Agostino Segade Passer\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GravtiyFallsEscapeRoom.props
+C:\Users\48386947\Downloads\Sala de escape Cabral D'Agostino Segade Passer\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GravtiyFallsEscapeRoom.props
+C:\Users\48386947\Downloads\Sala de escape Cabral D'Agostino Segade Passer\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\48386947\Downloads\Sala de escape Cabral D'Agostino Segade Passer\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\scopedcss\bundle\GravtiyFallsEscapeRoom.styles.css
+C:\Users\48386947\Downloads\Sala de escape Cabral D'Agostino Segade Passer\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\GravtiyFallsEscapeRoom.dll
+C:\Users\48386947\Downloads\Sala de escape Cabral D'Agostino Segade Passer\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\refint\GravtiyFallsEscapeRoom.dll
+C:\Users\48386947\Downloads\Sala de escape Cabral D'Agostino Segade Passer\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\GravtiyFallsEscapeRoom.pdb
+C:\Users\48386947\Downloads\Sala de escape Cabral D'Agostino Segade Passer\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\GravtiyFallsEscapeRoom.genruntimeconfig.cache
+C:\Users\48386947\Downloads\Sala de escape Cabral D'Agostino Segade Passer\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\ref\GravtiyFallsEscapeRoom.dll
+C:\Users\48386947\Documents\Sala de escape Cabral D'Agostino Segade Passer\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\48386947\Documents\Sala de escape Cabral D'Agostino Segade Passer\bin\Debug\net8.0\appsettings.json
+C:\Users\48386947\Documents\Sala de escape Cabral D'Agostino Segade Passer\bin\Debug\net8.0\GravtiyFallsEscapeRoom.staticwebassets.runtime.json
+C:\Users\48386947\Documents\Sala de escape Cabral D'Agostino Segade Passer\bin\Debug\net8.0\GravtiyFallsEscapeRoom.exe
+C:\Users\48386947\Documents\Sala de escape Cabral D'Agostino Segade Passer\bin\Debug\net8.0\GravtiyFallsEscapeRoom.deps.json
+C:\Users\48386947\Documents\Sala de escape Cabral D'Agostino Segade Passer\bin\Debug\net8.0\GravtiyFallsEscapeRoom.runtimeconfig.json
+C:\Users\48386947\Documents\Sala de escape Cabral D'Agostino Segade Passer\bin\Debug\net8.0\GravtiyFallsEscapeRoom.dll
+C:\Users\48386947\Documents\Sala de escape Cabral D'Agostino Segade Passer\bin\Debug\net8.0\GravtiyFallsEscapeRoom.pdb
+C:\Users\48386947\Documents\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\GravtiyFallsEscapeRoom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48386947\Documents\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\GravtiyFallsEscapeRoom.AssemblyInfoInputs.cache
+C:\Users\48386947\Documents\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\GravtiyFallsEscapeRoom.AssemblyInfo.cs
+C:\Users\48386947\Documents\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\GravtiyFallsEscapeRoom.csproj.CoreCompileInputs.cache
+C:\Users\48386947\Documents\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\GravtiyFallsEscapeRoom.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\48386947\Documents\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\GravtiyFallsEscapeRoom.RazorAssemblyInfo.cache
+C:\Users\48386947\Documents\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\GravtiyFallsEscapeRoom.RazorAssemblyInfo.cs
+C:\Users\48386947\Documents\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\48386947\Documents\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\48386947\Documents\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\staticwebassets\msbuild.GravtiyFallsEscapeRoom.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\48386947\Documents\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\staticwebassets\msbuild.build.GravtiyFallsEscapeRoom.props
+C:\Users\48386947\Documents\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GravtiyFallsEscapeRoom.props
+C:\Users\48386947\Documents\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GravtiyFallsEscapeRoom.props
+C:\Users\48386947\Documents\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\48386947\Documents\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\scopedcss\bundle\GravtiyFallsEscapeRoom.styles.css
+C:\Users\48386947\Documents\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\GravtiyFallsEscapeRoom.dll
+C:\Users\48386947\Documents\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\refint\GravtiyFallsEscapeRoom.dll
+C:\Users\48386947\Documents\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\GravtiyFallsEscapeRoom.pdb
+C:\Users\48386947\Documents\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\GravtiyFallsEscapeRoom.genruntimeconfig.cache
+C:\Users\48386947\Documents\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\ref\GravtiyFallsEscapeRoom.dll
+Z:\2024\PROG\Sala de escape Cabral D'Agostino Segade Passer\bin\Debug\net8.0\appsettings.Development.json
+Z:\2024\PROG\Sala de escape Cabral D'Agostino Segade Passer\bin\Debug\net8.0\appsettings.json
+Z:\2024\PROG\Sala de escape Cabral D'Agostino Segade Passer\bin\Debug\net8.0\GravtiyFallsEscapeRoom.staticwebassets.runtime.json
+Z:\2024\PROG\Sala de escape Cabral D'Agostino Segade Passer\bin\Debug\net8.0\GravtiyFallsEscapeRoom.exe
+Z:\2024\PROG\Sala de escape Cabral D'Agostino Segade Passer\bin\Debug\net8.0\GravtiyFallsEscapeRoom.deps.json
+Z:\2024\PROG\Sala de escape Cabral D'Agostino Segade Passer\bin\Debug\net8.0\GravtiyFallsEscapeRoom.runtimeconfig.json
+Z:\2024\PROG\Sala de escape Cabral D'Agostino Segade Passer\bin\Debug\net8.0\GravtiyFallsEscapeRoom.dll
+Z:\2024\PROG\Sala de escape Cabral D'Agostino Segade Passer\bin\Debug\net8.0\GravtiyFallsEscapeRoom.pdb
+Z:\2024\PROG\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\GravtiyFallsEscapeRoom.GeneratedMSBuildEditorConfig.editorconfig
+Z:\2024\PROG\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\GravtiyFallsEscapeRoom.AssemblyInfoInputs.cache
+Z:\2024\PROG\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\GravtiyFallsEscapeRoom.AssemblyInfo.cs
+Z:\2024\PROG\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\GravtiyFallsEscapeRoom.csproj.CoreCompileInputs.cache
+Z:\2024\PROG\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\GravtiyFallsEscapeRoom.MvcApplicationPartsAssemblyInfo.cache
+Z:\2024\PROG\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\GravtiyFallsEscapeRoom.RazorAssemblyInfo.cache
+Z:\2024\PROG\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\GravtiyFallsEscapeRoom.RazorAssemblyInfo.cs
+Z:\2024\PROG\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\staticwebassets.build.json
+Z:\2024\PROG\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\staticwebassets.development.json
+Z:\2024\PROG\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\staticwebassets\msbuild.GravtiyFallsEscapeRoom.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\2024\PROG\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\staticwebassets\msbuild.build.GravtiyFallsEscapeRoom.props
+Z:\2024\PROG\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GravtiyFallsEscapeRoom.props
+Z:\2024\PROG\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GravtiyFallsEscapeRoom.props
+Z:\2024\PROG\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\staticwebassets.pack.json
+Z:\2024\PROG\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\scopedcss\bundle\GravtiyFallsEscapeRoom.styles.css
+Z:\2024\PROG\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\GravtiyFallsEscapeRoom.dll
+Z:\2024\PROG\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\refint\GravtiyFallsEscapeRoom.dll
+Z:\2024\PROG\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\GravtiyFallsEscapeRoom.pdb
+Z:\2024\PROG\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\GravtiyFallsEscapeRoom.genruntimeconfig.cache
+Z:\2024\PROG\Sala de escape Cabral D'Agostino Segade Passer\obj\Debug\net8.0\ref\GravtiyFallsEscapeRoom.dll

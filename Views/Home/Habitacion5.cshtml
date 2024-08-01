@@ -1,0 +1,80 @@
+<div class="Contenido">
+    <script>
+        initializeTimer();
+    </script>
+      <div class="error">
+        @ViewBag.Error        
+    </div>
+  <p> Luego de disparar el rayo abres los ojos y… ¿Soos no parecen haber recuperado la memoria? Luego entra su abuela y
+    te explica que él es una persona que siempre está en las nubes, pero que sí ha vuelto a la normalidad.</p>
+  <div class="cita">
+    <p> "Entré allí para pedir que investiguen el caso. Escuché un número, el 7, y sin pensarlo lo repetí en voz alta.
+      Fue entonces cuando los policías reaccionaron de manera...drástica Sacaron una pistola, sentí un destello y
+      después... todo se volvió borroso. Ahora, todo lo que sé es que había algo importante relacionado con ese número
+      7. No sé qué era, pero sé que era crucial". </p>
+  </div>
+  <p>Luego de reflexionar un poco sobre lo que acaba de pasar, llegas a la conclusión de que los policías traman algo.
+    Además podrían intentar borrarle la memoria a personas que la familia Pines conocía. Ésto debido a que podrían ir a
+    reclamar o hacer una movilización. Ahora bien… ¿a quien decides entrevistar? </p>
+  <!-- Pistas -->
+<p>¿Quieres una pista?</p>
+<div id="liveAlertPlaceholder1"></div>
+<button type="button" class="btn btn-primary" id="liveAlertBtn1">Pista!</button>
+<script>
+  const alertPlaceholder1 = document.getElementById('liveAlertPlaceholder1')
+  const appendAlert1 = (message, type) => {
+    const wrapper = document.createElement('div')
+    wrapper.innerHTML = [
+      `<div class="alert alert-${type} alert-dismissible" role="alert">`,
+      `   <div>${message}</div>`,
+      '   <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>',
+      '</div>'
+    ].join('')
+
+    alertPlaceholder1.append(wrapper)
+  }
+
+  const alertTrigger1 = document.getElementById('liveAlertBtn1')
+  if (alertTrigger1) {
+    alertTrigger1.addEventListener('click', () => {
+      appendAlert1('Son dos personas las cuales tienes que entrevistar', 'success')
+    })
+  }
+</script>
+
+<div id="liveAlertPlaceholder2"></div>
+<button type="button" class="btn btn-primary" id="liveAlertBtn2">Pista 2!</button>
+<script>
+  const alertPlaceholder2 = document.getElementById('liveAlertPlaceholder2')
+  const appendAlert2 = (message, type) => {
+    const wrapper = document.createElement('div')
+    wrapper.innerHTML = [
+      `<div class="alert alert-${type} alert-dismissible" role="alert">`,
+      `   <div>${message}</div>`,
+      '   <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>',
+      '</div>'
+    ].join('')
+
+    alertPlaceholder2.append(wrapper)
+  }
+
+  const alertTrigger2 = document.getElementById('liveAlertBtn2')
+  if (alertTrigger2) {
+    alertTrigger2.addEventListener('click', () => {
+      appendAlert2('Fueron mencionadas en el periódico.', 'success')
+    })
+  }
+</script>
+<!-- Fin pistas -->
+
+  <!-- Form Codigo -->
+  <form action='@Url.Action("Habitacion")' method="POST">
+    <label for="inputPassword5" class="form-label"></label>
+    <input id="inputPassword5" class="form-control" aria-describedby="passwordHelpBlock" name="clave" id="Hab2">
+    <div id="passwordHelpBlock" class="form-text" for="no" value="GRENDA Y CANDY">
+    </div>
+    <input type="hidden" name="sala" value="5" />
+    <button type="submit" class="btn btn-primary">Enviar</button>
+  </form>
+  <!-- Fin Form Codigo -->
+</div>

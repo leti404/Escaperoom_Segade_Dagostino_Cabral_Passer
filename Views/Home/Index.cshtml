@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+<div class="festejo">
+    <h1>Bienvenido al Escape Room de Gravity Falls</h1>
+<h4> Resuelve Enigmas, Descubre la Verdad</h4>
+<p>Hola, aqui te encontraras con un escape room inspirado en la serie de Gravity Falls, te invitamos a comenzar por la seccion del tutorial para asi poder entender con mayor profundidad como funciona el juego y sobre que es este. Esperamos que lo disfrutes! Y si quieres saber un poco más sobre quienes estan detras de este escape room te invitamos a mirar la seccion de creditos. Una vez que estes listo toca comenzar! Recuerda que el tiempo esta corriendo!</p>
+  
+  <!-- Form Codigo -->
+  <form action='@Url.Action("Index")' method="POST">
+    <div>
+        <label for="playerName" class="form-label"> </label>Antes de empezar ingrese su nombre:</label>
+        <input type="text" class="form-control" id="nombJugador" name="nombJugador" required />
+    </div>
+    <button type="submit" class="btn btn-primary">Enviar</button>
+  </form>
+  <!-- Fin Form Codigo -->
+
+</div>

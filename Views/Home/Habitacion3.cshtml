@@ -1,0 +1,61 @@
+<div class="Contenido">
+    <script>
+        initializeTimer();
+    </script>
+      <div class="error">
+        @ViewBag.Error        
+    </div>
+  <p>
+    Te diriges a la Mystery Shack con la esperanza de encontrar algo más que basura sin sentido. Al llegar, investigas todo el lugar sin lograr encontrar nada. Es más, piensas que tal vez los libros son solo disparates y que, en realidad, las grabaciones de la cámara de seguridad estaban editadas. Cuando crees que tu investigación no será exitosa, decides ir a descansar y te apoyas sobre un árbol…
+
+¡CLANG! Un sonido metálico te estremece. ¿Fue el árbol? Lo golpeas para asegurarte… ¡CLANG! Vuelves a escuchar el sonido. Tu golpe hace que el árbol se mueva y se abre una pequeña abertura. Ante todo pronóstico, la pistola estaba dentro de un… ¿árbol metálico? Qué extraño es este pueblo!
+  </p>
+  <div>
+    <video controls>
+      <source src="..\Videos/Encontrando arma de memoria.mp4" type="video/mp4">
+      Tu navegador no soporta la etiqueta de video.
+    </video>
+  </div>
+
+  <p>
+    Vuelves con Lazy Susan pero te percatas de que la pistola tiene un espacio para escribir lo que se ha olvidado la
+    persona. Esto es crucial, pues si le devuelves la memoria incorrecta podría volverse loca o licuar el cerebro.
+  </p>
+  <!-- Pista -->
+  <p> Quieres una pista?</p>
+  <div id="liveAlertPlaceholder"></div>
+  <button type="button" class="btn btn-primary" id="liveAlertBtn">Pista!</button>
+  <script>
+    const alertPlaceholder = document.getElementById('liveAlertPlaceholder')
+    const appendAlert = (message, type) => {
+      const wrapper = document.createElement('div')
+      wrapper.innerHTML = [
+        `<div class="alert alert-${type} alert-dismissible" role="alert">`,
+        `   <div>${message}</div>`,
+        '   <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>',
+        '</div>'
+      ].join('')
+
+      alertPlaceholder.append(wrapper)
+    }
+
+    const alertTrigger = document.getElementById('liveAlertBtn')
+    if (alertTrigger) {
+      alertTrigger.addEventListener('click', () => {
+        appendAlert('Recuerda que se olvido Lazy Susan', 'success')
+      })
+    }
+  </script>
+  <!-- Fin pista -->
+  <!-- Form Codigo -->
+  <form action='@Url.Action("Habitacion")' method="POST">
+    <label for="inputPassword5" class="form-label"></label>
+    <input id="inputPassword5" class="form-control" aria-describedby="passwordHelpBlock" name="clave" id="Hab2">
+    <div id="passwordHelpBlock" class="form-text" for="no" value="LA RECETA DE PIE DE MANZANA">
+    </div>
+    <input type="hidden" name="sala" value="3" />
+    <button type="submit" class="btn btn-primary">Enviar</button>
+  </form>
+  <!-- Fin Form Codigo -->
+
+</div>

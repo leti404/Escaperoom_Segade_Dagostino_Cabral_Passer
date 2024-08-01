@@ -1,0 +1,197 @@
+{
+  "Files": [
+    {
+      "Id": "Z:\\2024\\PROG\\Sala de escape Cabral D'Agostino Segade Passer\\wwwroot\\Audio\\ruidoshab2.mp3",
+      "PackagePath": "staticwebassets\\Audio\\ruidoshab2.mp3"
+    },
+    {
+      "Id": "Z:\\2024\\PROG\\Sala de escape Cabral D'Agostino Segade Passer\\wwwroot\\Fonts\\Gravity Falls\\gravitation_falls.otf",
+      "PackagePath": "staticwebassets\\Fonts\\Gravity Falls\\gravitation_falls.otf"
+    },
+    {
+      "Id": "Z:\\2024\\PROG\\Sala de escape Cabral D'Agostino Segade Passer\\wwwroot\\Fonts\\Gravity Falls\\gravitation_falls.ttf",
+      "PackagePath": "staticwebassets\\Fonts\\Gravity Falls\\gravitation_falls.ttf"
+    },
+    {
+      "Id": "Z:\\2024\\PROG\\Sala de escape Cabral D'Agostino Segade Passer\\wwwroot\\Fonts\\Gravity Falls\\readme.txt",
+      "PackagePath": "staticwebassets\\Fonts\\Gravity Falls\\readme.txt"
+    },
+    {
+      "Id": "Z:\\2024\\PROG\\Sala de escape Cabral D'Agostino Segade Passer\\wwwroot\\Fonts\\clock.ttf",
+      "PackagePath": "staticwebassets\\Fonts\\clock.ttf"
+    },
+    {
+      "Id": "Z:\\2024\\PROG\\Sala de escape Cabral D'Agostino Segade Passer\\wwwroot\\Fonts\\ganar\\Cute Notes.ttf",
+      "PackagePath": "staticwebassets\\Fonts\\ganar\\Cute Notes.ttf"
+    },
+    {
+      "Id": "Z:\\2024\\PROG\\Sala de escape Cabral D'Agostino Segade Passer\\wwwroot\\Fonts\\ganar\\license.txt",
+      "PackagePath": "staticwebassets\\Fonts\\ganar\\license.txt"
+    },
+    {
+      "Id": "Z:\\2024\\PROG\\Sala de escape Cabral D'Agostino Segade Passer\\wwwroot\\Fotos\\CartaInvitacion.png",
+      "PackagePath": "staticwebassets\\Fotos\\CartaInvitacion.png"
+    },
+    {
+      "Id": "Z:\\2024\\PROG\\Sala de escape Cabral D'Agostino Segade Passer\\wwwroot\\Fotos\\Diario1.png",
+      "PackagePath": "staticwebassets\\Fotos\\Diario1.png"
+    },
+    {
+      "Id": "Z:\\2024\\PROG\\Sala de escape Cabral D'Agostino Segade Passer\\wwwroot\\Fotos\\Diario2.png",
+      "PackagePath": "staticwebassets\\Fotos\\Diario2.png"
+    },
+    {
+      "Id": "Z:\\2024\\PROG\\Sala de escape Cabral D'Agostino Segade Passer\\wwwroot\\Fotos\\Diario3.png",
+      "PackagePath": "staticwebassets\\Fotos\\Diario3.png"
+    },
+    {
+      "Id": "Z:\\2024\\PROG\\Sala de escape Cabral D'Agostino Segade Passer\\wwwroot\\Fotos\\Diario4.png",
+      "PackagePath": "staticwebassets\\Fotos\\Diario4.png"
+    },
+    {
+      "Id": "Z:\\2024\\PROG\\Sala de escape Cabral D'Agostino Segade Passer\\wwwroot\\Fotos\\Thumbs.db",
+      "PackagePath": "staticwebassets\\Fotos\\Thumbs.db"
+    },
+    {
+      "Id": "Z:\\2024\\PROG\\Sala de escape Cabral D'Agostino Segade Passer\\wwwroot\\Fotos\\ian.jpg",
+      "PackagePath": "staticwebassets\\Fotos\\ian.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\PROG\\Sala de escape Cabral D'Agostino Segade Passer\\wwwroot\\Fotos\\leti.jpeg",
+      "PackagePath": "staticwebassets\\Fotos\\leti.jpeg"
+    },
+    {
+      "Id": "Z:\\2024\\PROG\\Sala de escape Cabral D'Agostino Segade Passer\\wwwroot\\Fotos\\libro1.png",
+      "PackagePath": "staticwebassets\\Fotos\\libro1.png"
+    },
+    {
+      "Id": "Z:\\2024\\PROG\\Sala de escape Cabral D'Agostino Segade Passer\\wwwroot\\Fotos\\lucas.jpeg",
+      "PackagePath": "staticwebassets\\Fotos\\lucas.jpeg"
+    },
+    {
+      "Id": "Z:\\2024\\PROG\\Sala de escape Cabral D'Agostino Segade Passer\\wwwroot\\Fotos\\paginaLibro1.png",
+      "PackagePath": "staticwebassets\\Fotos\\paginaLibro1.png"
+    },
+    {
+      "Id": "Z:\\2024\\PROG\\Sala de escape Cabral D'Agostino Segade Passer\\wwwroot\\Fotos\\paginaLibro2.png",
+      "PackagePath": "staticwebassets\\Fotos\\paginaLibro2.png"
+    },
+    {
+      "Id": "Z:\\2024\\PROG\\Sala de escape Cabral D'Agostino Segade Passer\\wwwroot\\Fotos\\paginaLibro3.png",
+      "PackagePath": "staticwebassets\\Fotos\\paginaLibro3.png"
+    },
+    {
+      "Id": "Z:\\2024\\PROG\\Sala de escape Cabral D'Agostino Segade Passer\\wwwroot\\Fotos\\perdiste.gif",
+      "PackagePath": "staticwebassets\\Fotos\\perdiste.gif"
+    },
+    {
+      "Id": "Z:\\2024\\PROG\\Sala de escape Cabral D'Agostino Segade Passer\\wwwroot\\Fotos\\tomi.jpeg",
+      "PackagePath": "staticwebassets\\Fotos\\tomi.jpeg"
+    },
+    {
+      "Id": "Z:\\2024\\PROG\\Sala de escape Cabral D'Agostino Segade Passer\\wwwroot\\Fotos\\tutorial1.png",
+      "PackagePath": "staticwebassets\\Fotos\\tutorial1.png"
+    },
+    {
+      "Id": "Z:\\2024\\PROG\\Sala de escape Cabral D'Agostino Segade Passer\\wwwroot\\Fotos\\tutorial2.png",
+      "PackagePath": "staticwebassets\\Fotos\\tutorial2.png"
+    },
+    {
+      "Id": "Z:\\2024\\PROG\\Sala de escape Cabral D'Agostino Segade Passer\\wwwroot\\Videos\\Encontrando arma de memoria.mp4",
+      "PackagePath": "staticwebassets\\Videos\\Encontrando arma de memoria.mp4"
+    },
+    {
+      "Id": "Z:\\2024\\PROG\\Sala de escape Cabral D'Agostino Segade Passer\\wwwroot\\Videos\\Lazy Susan.mp4",
+      "PackagePath": "staticwebassets\\Videos\\Lazy Susan.mp4"
+    },
+    {
+      "Id": "Z:\\2024\\PROG\\Sala de escape Cabral D'Agostino Segade Passer\\wwwroot\\Videos\\gnomoVomitando.mp4",
+      "PackagePath": "staticwebassets\\Videos\\gnomoVomitando.mp4"
+    },
+    {
+      "Id": "Z:\\2024\\PROG\\Sala de escape Cabral D'Agostino Segade Passer\\wwwroot\\Videos\\puertaSecreta.mp4",
+      "PackagePath": "staticwebassets\\Videos\\puertaSecreta.mp4"
+    },
+    {
+      "Id": "Z:\\2024\\PROG\\Sala de escape Cabral D'Agostino Segade Passer\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "Z:\\2024\\PROG\\Sala de escape Cabral D'Agostino Segade Passer\\wwwroot\\dia.cur",
+      "PackagePath": "staticwebassets\\dia.cur"
+    },
+    {
+      "Id": "Z:\\2024\\PROG\\Sala de escape Cabral D'Agostino Segade Passer\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "Z:\\2024\\PROG\\Sala de escape Cabral D'Agostino Segade Passer\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "Z:\\2024\\PROG\\Sala de escape Cabral D'Agostino Segade Passer\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "Z:\\2024\\PROG\\Sala de escape Cabral D'Agostino Segade Passer\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "Z:\\2024\\PROG\\Sala de escape Cabral D'Agostino Segade Passer\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "Z:\\2024\\PROG\\Sala de escape Cabral D'Agostino Segade Passer\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "Z:\\2024\\PROG\\Sala de escape Cabral D'Agostino Segade Passer\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "Z:\\2024\\PROG\\Sala de escape Cabral D'Agostino Segade Passer\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "Z:\\2024\\PROG\\Sala de escape Cabral D'Agostino Segade Passer\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "Z:\\2024\\PROG\\Sala de escape Cabral D'Agostino Segade Passer\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "Z:\\2024\\PROG\\Sala de escape Cabral D'Agostino Segade Passer\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "Z:\\2024\\PROG\\Sala de escape Cabral D'Agostino Segade Passer\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "Z:\\2024\\PROG\\Sala de escape Cabral D'Agostino Segade Passer\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "Z:\\2024\\PROG\\Sala de escape Cabral D'Agostino Segade Passer\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GravtiyFallsEscapeRoom.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.GravtiyFallsEscapeRoom.props",
+      "PackagePath": "build\\GravtiyFallsEscapeRoom.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.GravtiyFallsEscapeRoom.props",
+      "PackagePath": "buildMultiTargeting\\GravtiyFallsEscapeRoom.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.GravtiyFallsEscapeRoom.props",
+      "PackagePath": "buildTransitive\\GravtiyFallsEscapeRoom.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

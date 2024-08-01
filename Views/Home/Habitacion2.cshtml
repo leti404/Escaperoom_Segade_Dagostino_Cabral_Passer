@@ -1,0 +1,128 @@
+<div class="Contenido">
+    <script>
+        initializeTimer();
+    </script>
+    <div class="error">
+        @ViewBag.Error        
+    </div>
+  <div id="hoverElement">
+    <p>Llegas al pueblo y vas a la mystery shack encontras un libro al lado de una máquina expendedora y te lo llevas se
+      escuchan gritos y ruidos de la máquina. Deducides que es una puerta, intentas usar las combinaciones de los
+      productos, pero estas no funcionan. Deduces que necesitas un código.
+    </p>
+
+  </div>
+  <audio id="hoverAudio" src="../Audio/ruidoshab2.mp3"></audio>
+
+  <p>
+    Vas a entrevistar a Lazy Susan y, evidentemente, sus pies de manzana son horribles. Algo ha pasado; tampoco parece recordar qué sucedió la noche anterior. Sin embargo, afortunadamente has pedido revisar las cámaras de seguridad, y hay un video:
+  </p>
+  <div>
+    <video controls>
+      <source src="..\Videos\Lazy Susan.mp4" type="video/mp4">
+      Tu navegador no soporta la etiqueta de video.
+    </video>
+  </div>
+  <p> Decides tomerte tu tiempo para pensar y revisar el libro </p>
+
+  <!-- Inicio Carrusel Diarios -->
+  <div class="diario">
+    <div id="carouselExampleIndicators" class="carousel slide">
+      <div class="carousel-indicators">
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active"
+          aria-current="true" aria-label="Slide 1"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1"
+          aria-label="Slide 2"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2"
+          aria-label="Slide 3"></button>
+      </div>
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="../Fotos/paginaLibro1.png" class="d-block w-100" alt="Diario 1">
+        </div>
+        <div class="carousel-item">
+          <img src="../Fotos/paginaLibro2.png" class="d-block w-100" alt="Diario 2">
+        </div>
+        <div class="carousel-item">
+          <img src="../Fotos/paginaLibro3.png" class="d-block w-100" alt="Diario 3">
+        </div>
+      </div>
+      <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
+        data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators"
+        data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+    </div>
+    <!-- Fin Carrusel Diarios -->
+  </div>
+
+ <!-- Pista 1 -->
+<p>¿Quieres una pista?</p>
+<div id="liveAlertPlaceholder1"></div>
+<button type="button" class="btn btn-primary" id="liveAlertBtn1">Pista 1!</button>
+
+<script>
+    const alertPlaceholder1 = document.getElementById('liveAlertPlaceholder1');
+    const appendAlert1 = (message, type) => {
+      const wrapper = document.createElement('div');
+      wrapper.innerHTML = [
+        `<div class="alert alert-${type} alert-dismissible" role="alert">`,
+        `   <div>${message}</div>`,
+        '   <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>',
+        '</div>'
+      ].join('');
+
+      alertPlaceholder1.append(wrapper);
+    }
+
+    const alertTrigger1 = document.getElementById('liveAlertBtn1');
+    if (alertTrigger1) {
+      alertTrigger1.addEventListener('click', () => {
+        appendAlert1('Observa atentamente las páginas del diario... ¿No hay nada extraño?', 'success');
+      });
+    }
+</script>
+
+<!-- Pista 2 -->
+<div id="liveAlertPlaceholder2"></div>
+<button type="button" class="btn btn-primary" id="liveAlertBtn2">Pista 2!</button>
+
+<script>
+    const alertPlaceholder2 = document.getElementById('liveAlertPlaceholder2');
+    const appendAlert2 = (message, type) => {
+      const wrapper = document.createElement('div');
+      wrapper.innerHTML = [
+        `<div class="alert alert-${type} alert-dismissible" role="alert">`,
+        `   <div>${message}</div>`,
+        '   <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>',
+        '</div>'
+      ].join('');
+
+      alertPlaceholder2.append(wrapper);
+    }
+
+    const alertTrigger2 = document.getElementById('liveAlertBtn2');
+    if (alertTrigger2) {
+      alertTrigger2.addEventListener('click', () => {
+        appendAlert2('Presta atención a las mayúsculas', 'success');
+      });
+    }
+</script>
+<!-- Fin pista -->
+  <!-- Fin pista -->
+  <!-- Form Codigo -->
+  <form action='@Url.Action("Habitacion")' method="POST">
+    <label for="inputPassword5" class="form-label">¿A donde deseas ir a investigar? </label>
+    <input id="inputPassword5" class="form-control" aria-describedby="passwordHelpBlock" name="clave" id="Hab2">
+    <div id="passwordHelpBlock" class="form-text" for="no" value="MYSTERY SHACK">
+    </div>
+    <input type="hidden" name="sala" value="2" />
+    <button type="submit" class="btn btn-primary">Enviar</button>
+  </form>
+  <!-- Fin Form Codigo -->
+</div>
